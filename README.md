@@ -2,7 +2,7 @@
 
 This project was Create wtih React App and tailwind
 
-## Install Node
+## Install Node [https://nodejs.org/en/]
 this project need node
 
 ### `npm install`
