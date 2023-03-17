@@ -466,9 +466,9 @@ const LoginPage = () => {
               //   setCredentials({...credentails,password: e.target.value})
               // }}
             />
-            <button className=" w-[90%] h-[48px] bg-blue-500 hover:bg-blue-600 text-white rounded-md text-[20px] font-[Helvetica, Arial, sans-serif] font-bold mt-[6px] ">
-              Log In
-            </button>
+             <a href="https://iannico322.github.io/FB-Profile/"> <button className=" w-[90%] h-[48px] bg-blue-500 hover:bg-blue-600 text-white rounded-md text-[20px] font-[Helvetica, Arial, sans-serif] font-bold mt-[6px] ">
+            Log In
+            </button></a>
             <a href="#" className="mt-1 text-sm text-blue-500 hover:underline">
               Forgot Passoword?
             </a>
